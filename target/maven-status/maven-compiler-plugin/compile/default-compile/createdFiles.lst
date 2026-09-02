@@ -1,0 +1,9 @@
+sis\unifranz\EvaluacionProcesual_Hito2_\model\Prioridad.class
+sis\unifranz\EvaluacionProcesual_Hito2_\model\EstadoTurno.class
+sis\unifranz\EvaluacionProcesual_Hito2_\model\Turno.class
+sis\unifranz\EvaluacionProcesual_Hito2_\EvaluacionProcesualHito2Application.class
+sis\unifranz\EvaluacionProcesual_Hito2_\util\ListaEnlazada.class
+sis\unifranz\EvaluacionProcesual_Hito2_\controller\TurnoController.class
+sis\unifranz\EvaluacionProcesual_Hito2_\util\Nodo.class
+sis\unifranz\EvaluacionProcesual_Hito2_\service\TurnoService.class
+sis\unifranz\EvaluacionProcesual_Hito2_\util\ListaEnlazada$1.class
